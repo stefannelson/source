@@ -1,4 +1,4 @@
-# Discovery vs. Architectural Writing
+# Gardener vs. Architectural Writing
 #writing #psychology 
 
 There can be considered to be two schools of thought when it comes to organizing one's writing, and an oversimplified view of this is structured vs. unstructured. 
@@ -16,3 +16,5 @@ A system like `sourcecode` can be helpful here, as [[Writing is Cooking - 202009
 
 # Sources
 [Brandon Sanderson - 2016 Lecture 1](https://www.youtube.com/watch?v=N4ZDBOc2tX8&list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL)
+
+[Brandon Sanderson - 2021 Lecture](https://www.youtube.com/watch?v=2EwI90ZOGRk)
