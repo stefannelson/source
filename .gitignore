@@ -1,5 +1,5 @@
 inbox/
 daily/
-
+*.css
 .*
 !/.gitignore
