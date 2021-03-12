@@ -1,5 +1,6 @@
-
 # Def: Euler $\phi$ Function
+#math/numbertheory 
+
 Of course, the main question is what is $k$?  
 $$ \phi(n) = |\{1 \leq a \leq n | (a,n) = 1\}|$$ 
 

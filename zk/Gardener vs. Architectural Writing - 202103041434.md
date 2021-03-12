@@ -18,3 +18,5 @@ A system like `sourcecode` can be helpful here, as [[Writing is Cooking - 202009
 [Brandon Sanderson - 2016 Lecture 1](https://www.youtube.com/watch?v=N4ZDBOc2tX8&list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL)
 
 [Brandon Sanderson - 2021 Lecture](https://www.youtube.com/watch?v=2EwI90ZOGRk)
+
+[[Lit - On Writing and Worldbuilding (Volume 1) - 202103111147]]
